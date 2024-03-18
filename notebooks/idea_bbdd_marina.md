@@ -16,7 +16,6 @@
 - EducationField
 - NumCompaniesWorked
 - TotalWorkingYears
-- StockOptionLevel
 
 ## Surveys
 - EmployeeID (FK)
@@ -24,21 +23,27 @@
 - JobSatisfaction
 - RelationshipSatisfaction
 - OverallSatisfaction // Propuesta de nueva columna combinando las tres anteriores
+- WorkLifeBalance
+
+## SurveysSupervisor
 - JobInvolvement
 - PerformanceRating
-- WorkLifeBalance
+
 
 ## EmploymentGeneral
 - EmployeeID (FK)
 - Attrition
-- Department
-- JobRole
-- JobLevel
 - OverTime
 - DistanceFromHome
 - RemoteWork
 - BusinessTravel
 - TrainingTimesLastYear
+
+## EmploymentTeams
+- EmployeeID (FK)
+- Department
+- JobRole
+- JobLevel
 
 ## EmploymentExperience
 - EmployeeID (FK)
@@ -55,6 +60,7 @@
 - MonthlyIncome
 - VSAverageSalary // Propuesta de nueva columna para revisar si los ingresos están por encima (o por debajo) de la media
 - PercentSalaryHike
+- StockOptionLevel
 
 ## CompanyStandards
 - Salary 
