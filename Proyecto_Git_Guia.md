@@ -25,7 +25,7 @@
 👏🏻 ¡Ahora ya podemos continuar con nuestro trabajo!<br>
 
 6. Mientras trabajamos, podemos hacer tantos **push** como queramos en nuestra rama específica para que su versión online también esté actualizada:
-    - `git add a.`
+    - `git add -A`
     - `git commit -m "commit_message"`
     - `git push`
 
@@ -41,7 +41,7 @@
     - `git merge nombre_rama_especifica`
 
 10. Una vez unificadas ambas ramas, subimos todo al repositorio online
-    - `git add a.`
+    - `git add -A`
     - `git commit -m "commit_message"`
     - `git push`
 
