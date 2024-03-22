@@ -33,15 +33,17 @@
 - PerformanceRating
 
 ## EmploymentGeneral
-- RecordID (PK)
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - Attrition
+- AttritionReason // Propuesta de nueva columna
 - OverTime
 - DistanceFromHome
 - RemoteWork
 - BusinessTravel
 - TrainingTimesLastYear
 - StandardHours
+- RecordDate // Propuesta de nueva columna
 
 ## EmploymentTeams
 - RecordID (FK - PK)
