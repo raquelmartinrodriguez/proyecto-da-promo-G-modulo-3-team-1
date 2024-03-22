@@ -1,5 +1,11 @@
 ## Mapa del proyecto
 
+Nombre equipo: Hasta numpy
+
+Scrum Master 1: Marina
+Scrum Master 2: Maite
+Scrum Master Final: Patri
+
 ### Fase 1: Exploración
 **Exploración inicial**:
 - Ruta de archivo: `notebooks/01-exploration/exploracion.ipynb`

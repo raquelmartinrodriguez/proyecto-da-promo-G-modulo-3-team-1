@@ -18,6 +18,7 @@
 - TotalWorkingYears
 
 ## Surveys
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - EnvironmentSatisfaction
 - JobSatisfaction
@@ -26,26 +27,33 @@
 - WorkLifeBalance
 
 ## SurveysSupervisor
+- RecordID (FK - PK)
+- EmployeeID (FK)
 - JobInvolvement
 - PerformanceRating
 
-
 ## EmploymentGeneral
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - Attrition
+- AttritionReason // Propuesta de nueva columna
 - OverTime
 - DistanceFromHome
 - RemoteWork
 - BusinessTravel
 - TrainingTimesLastYear
+- StandardHours
+- RecordDate // Propuesta de nueva columna
 
 ## EmploymentTeams
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - Department
 - JobRole
 - JobLevel
 
 ## EmploymentExperience
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - YearsAtCompany
 - YearsSinceLastPromotion
@@ -53,6 +61,7 @@
 - YearsWithCurrentManager
 
 ## SalaryDetails
+- RecordID (FK - PK)
 - EmployeeID (FK)
 - HourlyRate
 - DailyRate
@@ -65,8 +74,6 @@
 ## CompanyStandards
 - Salary 
 - AverageSalary // Propuesta de nueva columna para hacer la media de ingresos de los empleados
-- StandardHours
-
 
 # Propuestas de estilo
 - Usar el inglés como idioma vehicular en las tablas y sus datos
