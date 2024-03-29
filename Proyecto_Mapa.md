@@ -35,3 +35,22 @@ Scrum Master Final: Patri
 
 **Una vez unifiquemos**:
 - A la hora de tomar la decisión de eliminar una columna justificar el motivo por el que se prescinde de ella (y revisar si aún así es salvable para la BBDD)
+
+**Columnas a las que imputamos nulos**
+- Marital Status: Tiene un 40% de nulos. Hemos intentado sacar una moda concluyente de los datos, pero no hay una que sea determinante (married 27%, single 20%, divorced 12%). Imputaremos los nulos como "Unknown". **Next Steps:** Recomendar al cliente obtener más información sobre esta columna
+- EducationField: Tiene un 46% de nulos. Hemos intentado sacar una moda concluyente de los datos, pero no hay una que sea determinante. Imputaremos los nulos como "Unknown". **Next Steps:** Recomendar al cliente obtener más información sobre esta columna
+- TotalWorkingYears: Tiene un 32% de nulos. Probar con Iterative vs KNN Imputer
+- WorkLifeBalance: 6,5%
+- PerformanceRating: 12,09%
+- OverTime: 41,8%
+- BusinessTravel: 47,85%
+- DailyRate: 7,67%
+- HourlyRate: 5,37%
+
+**Columnas que no analizaremos**
+- NumberChildren: Por ser una columna que no contiene ni un solo dato.
+- Over18: Además de su alto valor de nulos, creemos que al tener una columna de Edad (Age) esta columna podría resultar redundante
+- YearsInCurrentRole: Tiene un 97% de nulos
+- Department: Tiene un 81% de nulos
+- StandardHours: Tiene un 73% de nulos
+- MonthlyIncome: Tiene un 52% de nulos y podemos utilizar HourlyRate (que no llega a 6% de nulos) para estimar las ganancias de los empleados de un modo más fiable
