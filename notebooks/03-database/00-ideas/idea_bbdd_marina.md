@@ -8,7 +8,6 @@
 - MaritalStatus
 - NumberChildren
 - DateBirth
-- Over18
 
 ## EmployeeDetails
 - EmployeeID (FK)
