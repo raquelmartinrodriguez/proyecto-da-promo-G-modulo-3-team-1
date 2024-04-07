@@ -52,7 +52,7 @@ El conjunto de datos contiene información sobre empleados de ABC Corporation, i
 
 ## 💻 Herramientas utilizadas
 
-Para la realización del ejercicio Se ha utilizado VSCode. 
+Para la realización del ejercicio se ha utilizado VSCode. 
 
 Se han instalado las siguientes librerías: 
 
@@ -62,11 +62,11 @@ Se han instalado las siguientes librerías:
 
 ## ✔ Objetivos
 
-    Consolidar los conocimientos de Python y SQL.
-    Utilizar control de versiones en equipo para aprender las ventajas y conflictos que genera.
-    Implementar Scrum como marco de referencia para el desarrollo del producto.
-    Mejorar la comunicación entre los miembros del equipo.
-    Mejorar las habilidades de comunicación en público al exponer el proyecto en la sesión final.
+- Consolidar los conocimientos de Python y SQL.
+- Utilizar control de versiones en equipo para aprender las ventajas y conflictos que genera.
+- implementar Scrum como marco de referencia para el desarrollo del producto.
+- Mejorar la comunicación entre los miembros del equipo.
+- Mejorar las habilidades de comunicación en público al exponer el proyecto en la sesión final.
 
 
 ## 💭 Contribución
