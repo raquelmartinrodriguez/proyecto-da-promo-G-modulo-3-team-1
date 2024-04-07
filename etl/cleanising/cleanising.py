@@ -70,3 +70,9 @@ def iterative(df, columnas):
 
     # comprobamos que es lo que nos devuelve, que en este caso es un array también
     return imputer_iterative_imputado
+#%%
+def estetica_df(df):
+    df.columns= df.columns.str.replace(" ", "_")
+    df.columns = df.columns.str.lower()
+
+# %%
