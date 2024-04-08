@@ -13,11 +13,13 @@ Con el objetivo de reducir la rotación de empleados y mejorar la satisfacción 
 
 En este proyecto, presentaremos los resultados de nuestro análisis exploratorio de datos, diseñaremos un experimento A/B para probar hipótesis críticas y analizaremos los resultados para proporcionar a ABC Corporation información valiosa que informe sus decisiones estratégicas.
 
+## 📆 Fechas
+
+El proyecto comenzó el día 14/03/2024 y el  09//04/2024 se presenta la demo a la empresa. 
+
 ## ✔ Quién es ABC Corporation?
 
 ABC Corporation, fundada en 1980 en California, es una consultora tecnológica especializada en ofrecer soluciones de inteligencia artificial (IA) y aprendizaje automático (machine learning) a empresas de diversos sectores. Su enfoque principal radica en automatizar y optimizar procesos empresariales mediante tecnologías de vanguardia.
-
-La empresa se distingue por tener un equipo multidisciplinario que abarca expertos en UX/UI, marketing, analistas, científicos de datos y otros campos relevantes. Esta diversidad permite una sinergia única entre conocimientos técnicos especializados y perspectivas variadas, lo que les permite ofrecer soluciones personalizadas adaptadas a las necesidades individuales de cada cliente.
 
 El último proyecto en el que ha estado implicada la empresa ha sido la optimización de procesos de selección de personal, para ello la empresa ha desarrollado una plataforma de selección inteligente, donde los empleados pueden analizar automáticamente los CV de los posibles candidatos, identificar sus habilidades clave y finalmente clasificar los candidatos según su idoneidad para determinados roles. Además, han creado un sistema de recomendación para sugerir a los reclutadores los mejores candidatos.
 
@@ -25,15 +27,15 @@ El último proyecto en el que ha estado implicada la empresa ha sido la optimiza
 
 ## Fase 1: Análisis Exploratorio de Datos(EDA)
 
-Antes de llevar a cabo el proyecto, el experimento A/B y plantear hipótesis, es crucial comprender mejor el conjunto de datos y sus características. Para ello deberás realizar un análisis exploratorio detallado del conjunto de datos para familiarizarte con ellos y entender qué información tenemos.
+Antes de llevar a cabo el proyecto, el experimento A/B y plantear hipótesis, es crucial comprender mejor el conjunto de datos y sus características. Para ello, realizamos un análisis exploratorio detallado del conjunto de datos para familiarizarnos con ellos y entender qué información tenemos.
 
 ## Fase 2: Transformación de los datos
 
-Esto puede incluir la limpieza de datos, la normalización, la conversión de tipos de datos y la aplicación de reglas empresariales específicas. Las transformaciones se realizarán mediante funciones de Python que se aplicarán a los datos extraídos.
+Incluye la limpieza de datos, la normalización, la conversión de tipos de datos y la aplicación de reglas empresariales específicas. Las transformaciones se realizarán mediante funciones de Python que se aplicarán a los datos extraídos.
 
 ## Fase 3: Diseño de BBDD e Inserción de los Datos
 
-En esta fase tiene como objetivo la creación y la inserción de datos en una base de datos. Los aspectos principales de esta fase del proyecto son: definir la estructura de la base de datos, crear la base de datos y insertar los datos de los empleados de la empresa en la base de datos.
+Esta fase tiene como objetivo la creación y la inserción de datos en una base de datos. Los aspectos principales de esta fase del proyecto son: definir la estructura de la base de datos, crear la base de datos y insertar los datos de los empleados de la empresa en la base de datos.
 
 ## Fase 4: Problema de A/B Testing
 
@@ -46,13 +48,14 @@ En esta fase del proyecto, creamos un archivo .py que llevará a cabo la extracc
 ## Fase 6: Reporte de los resultados
 
 El objetivo de esta fase será proporcionar a ABC Corporation un informe detallado del contexto general de la empresa utilizando visualizaciones en Python.
-Los Datos
+
+## Los Datos
 
 El conjunto de datos contiene información sobre empleados de ABC Corporation, incluyendo detalles sobre edad, género, departamento, salario, satisfacción laboral, entre otros.
 
 ## 💻 Herramientas utilizadas
 
-Para la realización del ejercicio se ha utilizado VSCode. 
+Para la realización del ejercicio se ha utilizado VSCode. Para el procesamiento de datos se ha utilizado el lenguaje Python. 
 
 Se han instalado las siguientes librerías: 
 
@@ -64,11 +67,11 @@ Se han instalado las siguientes librerías:
 
 - Consolidar los conocimientos de Python y SQL.
 - Utilizar control de versiones en equipo para aprender las ventajas y conflictos que genera.
-- implementar Scrum como marco de referencia para el desarrollo del producto.
+- Implementar Scrum como marco de referencia para el desarrollo del producto.
 - Mejorar la comunicación entre los miembros del equipo.
 - Mejorar las habilidades de comunicación en público al exponer el proyecto en la sesión final.
 
 
 ## 💭 Contribución
 
-Por favor, sientete libre utilizar e inspirarte en estos ejercicios o de sugerir mejoras en cuanto a la resolucion de los mismos
+Por favor, sientete libre utilizar e inspirarte en estos ejercicios o de sugerir mejoras en cuanto a la resolución de los mismos.
