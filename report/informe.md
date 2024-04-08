@@ -39,6 +39,10 @@ Vemos que la mayoría de los empleados viven relativamente cerca del lugar de tr
 
 ### Environment Satisfaction
 
+Establecemos las hipótesis:
+- H0 : No existe una relación entre el nivel de satisfacción con el ambiente laboral en el trabajo y la rotación de empleados en la empresa
+- H1: Existe una relación entre el nivel de satisfacción con el ambiente laboral en el trabajo y la rotación de empleados en la empresa
+
 ![alt text](image-4.png)
 
 **Conclusión**: Existe una diferencia significativa en la cantidad de attrition según el grupo de satisfacción, por lo que la hipótesis H0 quedaría descartada. Sí hay una relación entre la satisfacción con el ambiente laboral y la rotación de los empleados.
@@ -53,13 +57,15 @@ Establecemos las hipótesis:
 
 **Conclusión**: Existe una diferencia significativa en la cantidad de attrition según el grupo de satisfacción, por lo que la hipótesis H0 quedaría descartada. Sí hay una relación entre la satisfacción con el trabajo y la rotación de los empleados.
 
-### Environment Satisfaction
+### Relationship Satisfaction
 
 Establecemos las hipótesis:
 - H0 : No existe una relación entre el nivel de satisfacción con las relaciones en el trabajo y la rotación de empleados en la empresa
 - H1: Existe una relación entre el nivel de satisfacción con las relaciones en el trabajo y la rotación de empleados en la empresa
 
 ![alt text](image-6.png)
+
+**Conclusión**:  No existe una diferencia significativa en la cantidad de attrition según el grupo de satisfacción, por lo que la hipótesis H0 no se podría descartar. No existe una relación entre el nivel de satisfacción con las relaciones en el trabajo y la rotación de los empleados.
 
 ## Otros factores de influencia
 
