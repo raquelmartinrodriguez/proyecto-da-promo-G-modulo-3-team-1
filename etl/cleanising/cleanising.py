@@ -76,3 +76,14 @@ def estetica_df(df):
     df.columns = df.columns.str.lower()
 
 # %%
+mapa_diccionario = {}
+
+def binary_unification(columna, mapa_diccionario):
+
+  # replace en funcion del diccionario
+  columna = columna.replace(mapa_diccionario)
+
+  # gestion de posibles errores 
+  columna = pd.to_numeric(columna, errors='coerce')
+
+  return columna
