@@ -79,8 +79,6 @@ Aunque hay diferencias significativas, creemos que tiene que ver con que las per
 
 ### Relación entre el salario y el puesto entre los dos géneros
 
-### Relación entre el salario y el puesto entre los dos géneros
-
 - Lo primero que nos llama la atención es que no existe una jerarquía clara entre salarios de distintas responsabilidades. Por ejemplo, cabe esperar que de acuerdo con la jerarquía de puestos dentro de la empresa, el salario vaya acorde con éste. 
 - Lo siguiente es la diferencia en el promedio de salarios entre hombres y mujeres en los diferentes puestos. 
 
