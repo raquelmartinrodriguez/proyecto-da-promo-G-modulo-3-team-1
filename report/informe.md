@@ -22,6 +22,13 @@ Observamos que hay más hombres que mujeres en la empresa.
 
 Hay una variedad de salarios amplia (con empleados que cobran 30 €/hora hasta 100 € la hora). Hay un pico alrededor de 68 €/hora. 
 
+### Relación entre el salario y el puesto entre los dos géneros
+
+- Lo primero que nos llama la atención es que no existe una jerarquía clara entre salarios de distintas responsabilidades. Por ejemplo, cabe esperar que de acuerdo con la jerarquía de puestos dentro de la empresa, el salario vaya acorde con éste. 
+- Lo siguiente es la diferencia en el promedio de salarios entre hombres y mujeres en los diferentes puestos. 
+
+![alt text](image-10.png)
+
 ### Distancia del hogar a la empresa 
 
 ![alt text](image-3.png)
@@ -76,13 +83,6 @@ Para la columna Age los datos no siguen una distribución normal.
 ![alt text](image-9.png)
 
 Aunque hay diferencias significativas, creemos que tiene que ver con que las personas que llevan más años en la empresa, llevan más años con el mismo manager. No nos da mucha información sobre si la veriable influye o no en la rotación de empleados
-
-### Relación entre el salario y el puesto entre los dos géneros
-
-- Lo primero que nos llama la atención es que no existe una jerarquía clara entre salarios de distintas responsabilidades. Por ejemplo, cabe esperar que de acuerdo con la jerarquía de puestos dentro de la empresa, el salario vaya acorde con éste. 
-- Lo siguiente es la diferencia en el promedio de salarios entre hombres y mujeres en los diferentes puestos. 
-
-![alt text](image-10.png)
 
 ## Recomendaciones para la empresa 
 
